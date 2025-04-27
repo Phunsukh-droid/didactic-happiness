@@ -21,17 +21,3 @@ Commercial use refers to usage in a business environment, including:
  - freelance graphic design work
  - anything that will generate direct or indirect income
 
-3. Modification
-Chubby Dotty may not be modified, altered, adapted or built upon without written permission by its respective author. This pertains all files within the downloadable font zip-file. 
-
-4. Conversion
-Chubby Dotty may be converted to other formats such as WOFF, SVG or EOT webfonts, as long as the font is not modified in any other way, such as changing names or altering individual glyphs.
-
-5. Distribution
-While Chubby Dotty may freely be copied and passed along to other individuals for private use as its original downloadable zip-file, it may not be sold or published without written permission by its respective author.
-
-6. Embedding
-Chubby Dotty may be embedded into an application such as a web- or mobile app, independant of the number of the application users, as long as the application does not distribute Chubby Dotty, such as offering it as a download.
-
-7. Disclaimer
-Chubby Dotty is offered 'as is' without any warranty. 1001fonts.com and the respective author of Chubby Dotty shall not be liable for any damage derived from using this typeface. By using Chubby Dotty you agree to the terms of this license.
